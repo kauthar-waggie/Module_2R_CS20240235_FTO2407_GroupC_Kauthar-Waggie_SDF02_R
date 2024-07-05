@@ -68,8 +68,8 @@ span a:hover {
 }
 
 .avatar {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     box-sizing: border-box;
     border: 5px #3c3e3b solid;
     border-radius: 50%;
